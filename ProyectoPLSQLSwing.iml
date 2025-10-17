@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_24" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="ojdbc8" level="project" />
+    <orderEntry type="library" name="oraclepki-23.9.0.25.07" level="project" />
+    <orderEntry type="library" name="osdt_cert-21.9.0.0" level="project" />
+    <orderEntry type="library" name="osdt_core-21.9.0.0" level="project" />
+  </component>
+</module>

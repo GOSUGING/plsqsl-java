@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Corredora:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Corredora_jar</output-path>
+    <root id="archive" name="ProyectoPLSQLSwing.jar">
+      <element id="module-output" name="ProyectoPLSQLSwing" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion/Taller bases de datos/oraclepki-23.9.0.25.07.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion/Taller bases de datos/osdt_core-21.9.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion/Taller bases de datos/osdt_cert-21.9.0.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$USER_HOME$/Documents/Programacion/Taller bases de datos/ojdbc8.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
